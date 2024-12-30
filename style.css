@@ -12,9 +12,11 @@ header{
 }
 .search-box form input {
     padding: 10px 14px;
+    color: #fff;
 }
 .search-box form .row {
     align-items: center;
+    width: 100%;
 }
 .topbar-sec {
     padding-top: 30px;
@@ -756,7 +758,9 @@ footer{
     color: #ffffff99;
     font-size: 18px;
 }
-
+.m-f-logos span img {
+  width: 100%;
+}
 
 
 @media (min-width:1600px) {
